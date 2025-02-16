@@ -5,4 +5,5 @@ In this project, I aim to become more familiar with
 2. Making HTML boilerplates from scratch.
 3. Working with HTML to create a basic webpage.
 
-I hope to gain an understanding of how everything works together, and establish a deeper appreciation for Git and its system.
+I hope to gain an understanding of how everything works together,
+and establish a deeper appreciation for Git and its system.
